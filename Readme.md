@@ -38,7 +38,7 @@ Chaulin, A. M. (2022). On the Effect of Heterophilic Antibodies on Serum Levels 
 
 Flegal, K. M. (2023). Use and Misuse of BMI Categories. AMA Journal of Ethics, 25(7), 550–558. 10.1001/amajethics.2023.550.
 
-Florkowski, C. (2013). HbA1c as a Diagnostic Test for Diabetes Mellitus – Reviewing the Evidence. The Clinical Biochemist Reviews, 34(2), 75–83. https://pmc.ncbi.nlm.nih.gov/articles/PMC3799221/.
+Florkowski, C. (2013). HbA1c as a Diagnostic Test for Diabetes Mellitus – Reviewing the Evidence. The Clinical Biochemist Reviews, 34(2), 75–83.
 
 Hatfull, G. F. (2008). Bacteriophage genomics. Current Opinion in Microbiology, 11(5), 447–453. 10.1016/j.mib.2008.09.004.
 
@@ -48,11 +48,11 @@ Jutel, A. (2010). Medically unexplained symptoms and the disease label. Social T
 
 Kostopoulou, O., Delaney, B. C., & Munro, C. W. (2008). Diagnostic difficulty and error in primary care—a systematic review. Family Practice, 25(6), 400–413. 10.1093/fampra/cmn071.
 
-Lenskaia, T., Lockhart, B., & Lenskii, S. (2022). Ageratum: The Dose Makes the Poison. Plant Health Instructor, 22. https://www.doi.org/10.1094/PHI-C-2022-0826-01.
+Lenskaia, T., Lockhart, B., & Lenskii, S. (2022). Ageratum: The Dose Makes the Poison. Plant Health Instructor, 22. DOI: PHI-C-2022-0826-01.
 
-Lenskaia, T., Lockhart, B., & Lenskii, S. (2023). Sudden Death Syndrome in Soybeans: Catastrophe Next Door. Plant Health Instructor, 23. http://doi.org/10.1094/PHI-C-2022-02-0001.
+Lenskaia, T., Lockhart, B., & Lenskii, S. (2023). Sudden Death Syndrome in Soybeans: Catastrophe Next Door. Plant Health Instructor, 23. DOI: PHI-C-2022-02-0001.
 
-Lenskaia, T., Lockhart, B., & Lenskii, S. (2024). "Mysterious Disease" of Maize: A Diagnostic Puzzle with a 20-Year History. Plant Health Instructor, 24PHI-C-2024-02-0002.
+Lenskaia, T., Lockhart, B., & Lenskii, S. (2024). "Mysterious Disease" of Maize: A Diagnostic Puzzle with a 20-Year History. Plant Health Instructor, DOI: 24PHI-C-2024-02-0002.
 
 Lima-Mendez, G., Van Helden, J., Toussaint, A., & Leplae, R. (2008). Reticulate Representation of Evolutionary and Functional Relationships between Phage Genomes. Molecular Biology and Evolution, 25(4), 762–777. 10.1093/molbev/msn023.
 
